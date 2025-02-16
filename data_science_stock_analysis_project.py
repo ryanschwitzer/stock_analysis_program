@@ -26,7 +26,7 @@ while True:
     print('Tesla (T)')
     print('Amazon (AZN)')
     print('AMD (AMD)')
-    print('Special NASDAQ. (Must Have Correct Spelling)')
+    print('Any NASDAQ. (Must Have Correct Spelling)')
     print('Compare Stocks (CS)')
     print('Quit (Q)')
     print()
