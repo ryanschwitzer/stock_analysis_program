@@ -14,4 +14,4 @@ Dive into the world of stock analysis with this Python-powered program! Built fo
 
 ## About the Project
 
-This project showcases my Python skills and data science knowledge, leveraging libraries like `yfinance`, `pandas`, and `matplotlib`. Perfect for anyone looking to quickly analyze stock data and make informed decisions.
+I decided to take the idea of the project and complete it from scratch to maximize my learning. I did not use Juypter, it was done in VS Studio. This project showcases my Python skills and data science knowledge, leveraging libraries like `yfinance`, `pandas`, and `matplotlib`. Perfect for anyone looking to quickly analyze stock data and make informed decisions.
