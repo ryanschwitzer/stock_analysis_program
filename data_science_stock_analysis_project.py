@@ -392,7 +392,7 @@ while True:
 
                     #Get revenue
                     print('Total Revenue')
-                    income_statement = custom.financials
+                    income_statement = stock.financials
                     revenue = income_statement.loc["Total Revenue"]
                     print(revenue)
 
