@@ -8,7 +8,7 @@ A Python program that helps you analyze stocks and make informed investment deci
 - See real-time stock prices
 - View interactive price charts
 - Track company performance over time
-- Get key company information (sector, country)
+- Get key company information
 - Access financial statements
 
 ### 2. Compare Stocks Side-by-Side 🔍
